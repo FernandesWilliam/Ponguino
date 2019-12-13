@@ -1,7 +1,7 @@
-# Rapport de Séance 
+# ------------------------------------------------Rapport de Séance 
 
 
 
 
 
-# 13/11/2019 
+# Séance 1- Déplacement de la raquette & Transformation en distance du jeu- 13/11/2019 
