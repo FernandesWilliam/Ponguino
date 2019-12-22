@@ -4,7 +4,7 @@
 
 
 
-# Séance 1- Maquette & Déplacement de la raquette & Transformation en distance de jeu- 13/11/2019 
+# Séance 1- Maquette & Déplacement de la raquette & Transformation en distance de jeu- 13/12/2019 
 
 Au début de la séance j'ai commencé à réaliser au brouillon un aperçu final de notre projet(aperçu ci-dessous), afin que Clément et moi puissions dimensionner la taille du Pong : la taille du plateau choisi est (60x40 cm) ce qui nous permet de savoir la taille des autres matériaux à prendre puisqu'ils dependaient tous du plateau. 
 Avec Clément nous avons vu si il était nécessaire de commander des matériaux, il se trouve que la plus part des matériaux dont nous avions besoins étaient à notre disposition : aimant, tige en fer, plateau en PVC,moteur continue.
