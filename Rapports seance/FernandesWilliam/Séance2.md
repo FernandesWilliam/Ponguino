@@ -12,3 +12,9 @@ J'ai donc programmer le déplacement de la raquette en considérant les variatio
 <img width="725" alt="Capture d’écran 2020-01-09 à 20 14 25" src="https://user-images.githubusercontent.com/57043613/72097552-e7d7c580-331c-11ea-91cb-2bc15b0cfd42.png">
 <img width="1439" alt="Capture d’écran 2020-01-09 à 20 14 41" src="https://user-images.githubusercontent.com/57043613/72097604-0342d080-331d-11ea-8cc9-4ef75dae401c.png">
 <img width="1440" alt="Capture d’écran 2020-01-09 à 20 15 02" src="https://user-images.githubusercontent.com/57043613/72097621-0dfd6580-331d-11ea-8e06-04c1d41c0407.png">
+
+
+Ensuite j'ai commencé à étudier les librairies en C++, et j'ai commencé un début de classe notamment celle de la raquette.Je continuerais à la prochaine séance.
+<img width="1435" alt="Capture d’écran 2020-01-09 à 20 22 38" src="https://user-images.githubusercontent.com/57043613/72097974-d642ed80-331d-11ea-80b2-8c526db04930.png">
+
+<img width="1438" alt="Capture d’écran 2020-01-09 à 20 22 46" src="https://user-images.githubusercontent.com/57043613/72097989-dfcc5580-331d-11ea-8dac-4326a91c5335.png">
