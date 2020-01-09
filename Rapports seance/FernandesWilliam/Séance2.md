@@ -9,10 +9,11 @@ En début de cours j'ai presenté à Clément ce que j'avais effectué durant le
 
 
 J'ai donc programmer le déplacement de la raquette en considérant les variations du potentiomètre. Afin d'initialiser la raquette,à l'allumage de la machine Ponguino la raquette se déplace jusqu'à la rencontre d'un obstacle, cette position correspond au 0.On as pu testé avec Clément le programme, cela fonctionne.
+Nous avons effectuer une vidéo qui relate les faits : https://www.youtube.com/watch?v=F1L53QVCrAM&feature=youtu.be
 <img width="725" alt="Capture d’écran 2020-01-09 à 20 14 25" src="https://user-images.githubusercontent.com/57043613/72097552-e7d7c580-331c-11ea-91cb-2bc15b0cfd42.png">
 <img width="1439" alt="Capture d’écran 2020-01-09 à 20 14 41" src="https://user-images.githubusercontent.com/57043613/72097604-0342d080-331d-11ea-8cc9-4ef75dae401c.png">
 <img width="1440" alt="Capture d’écran 2020-01-09 à 20 15 02" src="https://user-images.githubusercontent.com/57043613/72097621-0dfd6580-331d-11ea-8e06-04c1d41c0407.png">
-Nous avons effectuer une vidéo qui relate les faits : https://www.youtube.com/watch?v=F1L53QVCrAM&feature=youtu.be
+
 
 
 Ensuite j'ai commencé à étudier les librairies en C++,pris un peu de temps pour comprendre le fonctionnement de ce language inconnu.J'ai commencé un début de classe notamment celle de la raquette.Je continuerais à la prochaine séance.
