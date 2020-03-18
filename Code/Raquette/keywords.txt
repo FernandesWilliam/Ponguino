@@ -1,0 +1,25 @@
+###################################
+# Syntax Coloring Map For Raquette
+###################################
+
+###################################
+# Datatypes (KEYWORD1)
+###################################
+
+Raquette	KEYWORD1
+
+###################################
+# Methods and Functions (KEYWORD2)
+###################################
+
+pinSetup	KEYWORD2
+movePaddle	KEYWORD2
+encodeur        KEYWORD2
+initPad         KEYWORD2
+
+
+
+###################################
+# Constants (LITERAL1)
+###################################
+
