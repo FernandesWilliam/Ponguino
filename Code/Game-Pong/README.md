@@ -1,1 +1,1 @@
-Code qui a un lien direct avec le jeu pong.
+Code Arduino qui permet de faire fonctionner la maquette. 
