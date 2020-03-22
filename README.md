@@ -4,5 +4,3 @@ Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Po
 Le jeu pong revisité en 3D.
 
 
-# Présentation
-
